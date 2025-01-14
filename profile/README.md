@@ -27,6 +27,7 @@ Our team is passionate about bridging the gap between technology and the wonders
 - Deep Learning, Web, App Lead Developer
 
 ### Planning 
+[**Sunjun Hwang**](https://github.com/justinbrianhwang)
 [**Jiwoong Choi**](https://github.com/Pinchpeach)
 - Development Planner
 - Astrophysics major
@@ -35,4 +36,42 @@ Our team is passionate about bridging the gap between technology and the wonders
 **Yeonju Kang**
 - Planning for app/web deployment and user-friendliness
 - Create an overall proposal 
+
+### Deeplearning Developer
+[**Sunjun Hwang**](https://github.com/justinbrianhwang)
+
+
+### Data Analysis
+[**Sunjun Hwang**](https://github.com/justinbrianhwang)
+Hongjun Jeon
+Eunseok Lee
+
+### App Developer
+[**Sunjun Hwang**](https://github.com/justinbrianhwang)
+Jiyoon Beak
+Chanwoo Ji
+
+
+### Web Developer
+[**Sunjun Hwang**](https://github.com/justinbrianhwang)
+Minwoo Kang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
