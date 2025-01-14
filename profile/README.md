@@ -1,5 +1,5 @@
 # SpectraTrail
-<img src="https://i.imgur.com/3mjr2kB.png" width=50/>
+<img src="https://i.imgur.com/3mjr2kB.png" width=300/>
 
 
 ## About SpectraTrail
