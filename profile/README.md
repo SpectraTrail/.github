@@ -28,6 +28,7 @@ Our team is passionate about bridging the gap between technology and the wonders
 
 ### Planning 
 [**Sunjun Hwang**](https://github.com/justinbrianhwang)
+
 [**Jiwoong Choi**](https://github.com/Pinchpeach)
 - Development Planner
 - Astrophysics major
@@ -43,17 +44,22 @@ Our team is passionate about bridging the gap between technology and the wonders
 
 ### Data Analysis
 [**Sunjun Hwang**](https://github.com/justinbrianhwang)
+
 Hongjun Jeon
+
 Eunseok Lee
 
 ### App Developer
 [**Sunjun Hwang**](https://github.com/justinbrianhwang)
+
 Jiyoon Beak
+
 Chanwoo Ji
 
 
 ### Web Developer
 [**Sunjun Hwang**](https://github.com/justinbrianhwang)
+
 Minwoo Kang
 
 
