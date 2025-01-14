@@ -18,7 +18,7 @@ Our team is passionate about bridging the gap between technology and the wonders
 
 ## Member 
 ### Team Leader
-**Sunjun Hwang**
+[**Sunjun Hwang**](https://github.com/justinbrianhwang)
 - [site](https://sites.google.com/view/seonjunhwang)
 - Reasearcher (AI, Quantum Computing, Computer Architecture)
 - Involved in all development and planning
@@ -26,7 +26,7 @@ Our team is passionate about bridging the gap between technology and the wonders
 - Deep Learning, Web, App Lead Developer
 
 ### Planning 
-**Jiwoong Choi**
+[**Jiwoong Choi**](https://github.com/Pinchpeach)
 - Development Planner
 - Astrophysics major
 - Organize your knowledge of celestial bodies
